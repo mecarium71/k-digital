@@ -1,11 +1,5 @@
 # k-digital
 
-## 강의 소개 파일
-
-- https://docs.google.com/presentation/d/1uzB13Qjkwcq_LVzKhN9RWsTGrOTd21MkV0jl_catrok/edit?usp=sharing
-
-- https://docs.google.com/presentation/d/1vYjZi4la4uSb0ZU6kFPf_4ymzrDJR4nRk12bIu_Tdew/edit?usp=sharing
-
 
 
 ## 실습 환경 셋팅 
