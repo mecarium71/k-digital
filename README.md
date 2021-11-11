@@ -1,6 +1,8 @@
 # k-digital
 
+## 블로그 주소
 
+https://docs.google.com/spreadsheets/d/18-Jli6aC_lOxmISNi3b_ALYJj31WQw2jCTBoU3p3no4/edit?usp=sharing
 
 ## 실습 환경 셋팅 
 
