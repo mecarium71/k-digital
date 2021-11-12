@@ -22,6 +22,7 @@ https://www.anaconda.com/products/individual
 
 ## 참고 자료
 
+- 리뷰 링크 : https://wikidocs.net/7014
 
 - Git 이란(버전컨트롤시스템) : https://bit.ly/36D6gHc
 
