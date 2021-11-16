@@ -22,6 +22,10 @@ https://www.anaconda.com/products/individual
 
 ## 참고 자료
 
+- 실습데이터1 : https://drive.google.com/file/d/1rxn6dwzAKfmVBghvSG2Lf2dR7vViTRdM/view?usp=sharing
+
+- 실습데이터2 : https://drive.google.com/file/d/1BMth--17KkjOzI2i62mCgQvtwyjnAXas/view?usp=sharing
+
 - 리뷰 링크 : https://wikidocs.net/7014
 
 - Git 이란(버전컨트롤시스템) : https://bit.ly/36D6gHc
