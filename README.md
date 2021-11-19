@@ -22,6 +22,8 @@ https://www.anaconda.com/products/individual
 
 ## 참고 자료
 
+- 블로그 주소 URL : https://docs.google.com/spreadsheets/d/18-Jli6aC_lOxmISNi3b_ALYJj31WQw2jCTBoU3p3no4/edit?usp=sharing
+
 - 실습데이터1 : https://drive.google.com/file/d/1rxn6dwzAKfmVBghvSG2Lf2dR7vViTRdM/view?usp=sharing
 
 - 실습데이터2 : https://drive.google.com/file/d/1BMth--17KkjOzI2i62mCgQvtwyjnAXas/view?usp=sharing
