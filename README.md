@@ -1,5 +1,17 @@
 # k-digital
 
+## 강의 자료
+
+- 머신러닝 : https://docs.google.com/presentation/d/1pvgye0Gt5DKgA7Kn5pc4Cfy-D4VtmQTxVIvbxa-GfFc/edit#slide=id.ga8aab8fd2a_0_50
+
+---
+
+## 실습환경 셋팅 
+
+구글 코랩 셋팅 : https://vision-ai.tistory.com/entry/%EA%B5%AC%EA%B8%80-Colab-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95
+
+---
+
 ## 실습 환경 셋팅 
 
 ### 1. Chrome 설치 
