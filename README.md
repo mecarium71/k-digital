@@ -1,5 +1,3 @@
-AIzaSyCRNpyrML6AAW-VA6LuxX49_hU3QGdMnRE
-
 # k-digital
 
 ## 실습 환경 셋팅 
